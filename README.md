@@ -1,0 +1,2 @@
+# HelloWordService
+For eduational purposes
